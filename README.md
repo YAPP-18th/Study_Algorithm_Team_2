@@ -12,9 +12,9 @@
 
 ## What
 
-Backjoon,  Programmers, leetcode 알고리즘 저지 플랫폼에서  
+Backjoon,  Programmers, leetcode 알고리즘 저지 플랫폼에서
 
-solved.ac 기준 Silver ~ Gold, 프로그래머스 기준 Level2 ~ 3 난이도의 문제를 풀고 PR합니다.
+Medium 팀 기준 백준 Silver ~ Gold, 프로그래머스 Level2 ~ 3 난이도의 문제를 풀고 PR합니다.
 
 ## How
 
@@ -65,5 +65,5 @@ solved.ac 기준 Silver ~ Gold, 프로그래머스 기준 Level2 ~ 3 난이도�
 ## Progress
 | 주차 | 모임날짜 | 문제 | 유형 |
 |--|--|--|--|
-| Week1(20.03.06 ~ 03.12) | 20.03.13 | [터렛](https://www.acmicpc.net/problem/1002)<br> [골드바흐의 추측](https://www.acmicpc.net/problem/9020) <br> [파도반 수열](https://www.acmicpc.net/problem/9461) | [수학](https://www.acmicpc.net/problemset?sort=ac_desc&algo=124) <br> [소수 판정](https://www.acmicpc.net/problemset?sort=ac_desc&algo=9) <br> [에라토스테네스의 체](https://www.acmicpc.net/problemset?sort=ac_desc&algo=67) <br> [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25) |
+| Week1(20.03.06 ~ 03.12) | 20.03.13 | Easy 팀 <br> [Palindrome Number](https://leetcode.com/problems/palindrome-number/) <br> [Add Binary](https://leetcode.com/problems/add-binary/) <br> [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) <br> <br> Medium 팀 <br> [터렛](https://www.acmicpc.net/problem/1002)<br> [골드바흐의 추측](https://www.acmicpc.net/problem/9020) <br> [파도반 수열](https://www.acmicpc.net/problem/9461) | [수학](https://www.acmicpc.net/problemset?sort=ac_desc&algo=124) <br> [소수 판정](https://www.acmicpc.net/problemset?sort=ac_desc&algo=9) <br> [에라토스테네스의 체](https://www.acmicpc.net/problemset?sort=ac_desc&algo=67) <br> [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25) |
 | Week2(20.03.13 ~ 03.19) | 20.03.20 | | |
