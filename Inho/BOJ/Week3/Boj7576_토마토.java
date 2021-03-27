@@ -68,11 +68,6 @@ class Boj7576 {
                 
             }
         }
-
-
-       
-
-
     }
     public static int calcDay(){
         int max = -1;
@@ -83,6 +78,7 @@ class Boj7576 {
                     return -1;
                 }
                 max = Math.max(value, max);
+                int l=123;
             }
         }
         return max - 1;
