@@ -15,7 +15,7 @@ class Main {
         int m = Integer.parseInt(st.nextToken());
         int v = Integer.parseInt(st.nextToken());
 
-        list = new ArrayList[n + 1];
+        list = new ArrayList [n + 1];
         check = new boolean[n + 1];
 
 
@@ -29,6 +29,10 @@ class Main {
             int b = Integer.parseInt(st.nextToken());
             list[a].add(b);
             list[b].add(a);
+        }
+
+        for(int i=1; i<=n; i++){
+            Collections.sort(list[i]);
         }
 
         dfs(v);
