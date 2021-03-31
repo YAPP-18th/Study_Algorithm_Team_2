@@ -25,24 +25,26 @@ class Boj2805{
         bw.close();
     }
 
-    public static long binarySearch(int []arr, int m){
-        long start = 0;
-        long end = arr[arr.length-1];
-        long mid = (start + end) / 2;;
+    public static int binarySearch(int []arr, int m){
+        int start = 0;
+        int end = arr[arr.length-1];
+        int mid = (start + end) / 2;;
 
-        while(start <= end){ 
+        int result = 0;
+        while(start < end){
             mid = (start + end) / 2;
-            // 가능한 최소 경계를 찾아야함.
             if(calculate(arr, mid) >= m){
-                start = mid + 1 ;
-            }else{
+                result = mid;
+                start = mid + 1;
+            }
+            else{
                 end = mid - 1;
             }
         }
-        return end;
+        return result;
     }
 
-    public static long calculate(int [] arr, long n){
+    public static long calculate(int [] arr, int n){
         long result = 0;
         for(int i: arr){
             if(i > n){
