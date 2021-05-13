@@ -75,3 +75,6 @@ Medium 팀 기준 백준 Silver ~ Gold, 프로그래머스 Level2 ~ 3 난이도�
 | Week7(21.04.17 ~ 04.23) | 21.04.24 |[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) <br> [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br> [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) <br>| [힙](https://programmers.co.kr/learn/courses/30/parts/12117) <br> [해시](https://programmers.co.kr/learn/courses/30/parts/12077)|
 | Week8(21.04.24 ~ 04.30) | 21.05.01 |[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) <br> [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) <br> [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) <br>| [완전탐색](https://programmers.co.kr/learn/courses/30/parts/12230)|
 | Week9(21.05.01 ~ 05.07) | 21.05.08 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) <br> [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) <br> | 2019 카카오 공채 |
+| Week10(21.05.08 ~ 05.14) | 21.05.15 |[로또의 최고 순위와 최저 순위
+](https://programmers.co.kr/learn/courses/30/lessons/77484) <br> [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) <br> | 2021 Dev-Matching 웹 백엔드 |
+
