@@ -79,3 +79,4 @@ Medium 팀 기준 백준 Silver ~ Gold, 프로그래머스 Level2 ~ 3 난이도�
 | Week11(21.06.01 ~ 06.04) | 21.06.05 |[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) <br> [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) <br> | 월간 코드 챌린지 시즌 1 |
 | Week12(21.06.12 ~ 06.18) | 21.06.19 |[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) <br> | 월간 코드 챌린지 시즌 1 |
 | Week13(21.06.19 ~ 06.25) | 21.06.26 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) <br> [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) <br> | Programmers Level 2 |
+| Week14(21.06.26 ~ 07.02) | 21.07.03 |[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) <br> [N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) <br> | 2020 카카오 인턴십 <br> 2018 카카오 블라인드 |
