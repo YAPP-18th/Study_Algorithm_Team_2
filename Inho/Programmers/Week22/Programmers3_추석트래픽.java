@@ -1,8 +1,8 @@
 import java.util.*;
 class Solution {
     public int solution(String[] lines) {
-        int [] endT = new int [lines.length];
         int max = 0;
+        int [] endT = new int [lines.length];
         
         LinkedList<Cell> list = new LinkedList<>();
         
@@ -13,7 +13,6 @@ class Solution {
             list.add(c);
         }
         
-        Collections.sort(list);
         
         for(int i=0; i<endT.length; i++){
             list.removeFirst();
@@ -22,7 +21,7 @@ class Solution {
             
             int cnt = 1;
             for(Cell c: list){
-                if(endTime + 998 >= c.startMs){
+                if(endTime + 999 > c.startMs){
                     cnt++;                    
                 }
             }
@@ -56,16 +55,12 @@ class Solution {
     }
 }
 
-class Cell implements Comparable<Cell>{
+class Cell {
     int idx;
     int startMs;
     Cell(int idx, int startMs){
         this.idx = idx;
         this.startMs = startMs;
     }
-    
-    @Override
-    public int compareTo(Cell c){
-       return this.startMs - c.startMs;
-    }
+  
 }
