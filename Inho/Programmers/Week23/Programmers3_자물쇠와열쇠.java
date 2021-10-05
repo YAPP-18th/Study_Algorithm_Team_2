@@ -80,8 +80,8 @@ class Solution {
                 int lj = j+b;
                 if(lj >= ln ) break;
                 if(lj < 0) continue;
-                if(Key[i][j] == Lock[i+a][j+b]) return false;
-                if(Key[i][j] && !Lock[i+a][j+b]) cnt--;
+                if(Key[i][j] == Lock[keyx][keyy]) return false;
+                if(Key[i][j] && !Lock[keyx][keyy]) cnt--;
                 
             }
         }
